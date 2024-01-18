@@ -71,14 +71,14 @@ Using the DMM we measured the voltage drop across all the resistors.
 #### Part 2.3 - Thevenin
 Thevenin’s Theorem states that all linear circuits, regardless of number of components, can be expressed as a circuit with one equivalent voltage source and one equivalent resistance. 
 
-We then calculated $R_T$, $V_T$, $I_N$, and $I_L$ using the previously measured values for $R_1$, $R_2$, $R_3$, and $R_4$.
+We then calculated $R_T$, $V_T$, $I_N$, $V_L$ and $I_L$ using the previously measured values for $R_1$, $R_2$, $R_3$, and $R_4$.
 ||Calculated|
 |---|---|
 |$R_T $||
 |$V_T$||
 |$I_N$||
 |$I_L$ ||
-
+|$V_L$ ||
 
 
 
