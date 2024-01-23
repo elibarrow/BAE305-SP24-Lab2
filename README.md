@@ -74,11 +74,11 @@ Thevenin’s Theorem states that all linear circuits, regardless of number of co
 We then calculated $R_T$, $V_T$, $I_N$, $V_L$ and $I_L$ using the previously measured values for $R_1$, $R_2$, $R_3$, and $R_4$.
 ||Calculated|
 |---|---|
-|$R_T $||
-|$V_T$||
-|$I_N$||
-|$I_L$ ||
-|$V_L$ ||
+|$R_T $|3.800 k&Omega;|
+|$V_T$|9.701 V|
+|$I_N$|2.553 mA|
+|$I_L$ |1.617 mA|
+|$V_L$ |6.145 V|
 
 
 
