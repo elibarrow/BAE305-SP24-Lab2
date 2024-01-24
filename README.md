@@ -80,6 +80,9 @@ We then calculated $R_T$, $V_T$, $I_N$, $V_L$ and $I_L$ using the previously mea
 |$I_L$ |1.617 mA|
 |$V_L$ |6.145 V|
 
+**Discussion Question 2: Does $I_T$ = $I_L$?**
+
+In this circuit that we were given the way that $I_T$ would be calculated would be to insert the load resistor back into the circuit, and then calculate the current running through the load by using Ohm's law using the thevenin voltage and load resistor value. This would give you the thevenin current, in the lab questions we were asked to calculate $I_L$ as well, and the previous steps listed above is what procedure was followed to get the value for $I_L$. So the answer to this discussion question is YES, $I_T$ = $I_L$.
 
 
 
