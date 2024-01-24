@@ -71,7 +71,25 @@ Using the DMM we measured the voltage drop across all the resistors.
 #### Part 2.3 - Thevenin
 Thevenin’s Theorem states that all linear circuits, regardless of number of components, can be expressed as a circuit with one equivalent voltage source and one equivalent resistance. 
 
-We then calculated $R_T$, $V_T$, $I_N$, $V_L$ and $I_L$ using the previously measured values for $R_1$, $R_2$, $R_3$, and $R_4$.
+The original circuit that we were given is shown below:
+<p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Screenshot%202024-01-23%20at%201.36.04%20PM.png width=50%>
+</p>
+
+The first step in the Thevenin process is to remove the load in the circuit. In this case the load was $R_5$. The updated ciruit is shown below: 
+<p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Screenshot%202024-01-23%20at%201.36.39%20PM.png width=50%>
+</p>
+
+
+We then simplified the circuit to increase the ease of calculating our values $R_T$, $V_T$, $I_N$, $V_L$ and $I_L$. The updated circuit is shown below:  
+
+<p align="center">
+  <img src=https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Screenshot%202024-01-23%20at%201.38.17%20PM.png width=50%>
+</p>
+
+
+We then calculated $R_T$, $V_T$, $I_N$, $V_L$ and $I_L$ using the previously measured values for $R_1$, $R_2$, $R_3$, and $R_4$. Using nodal analysis we were able to calculate $V_T$.
 ||Calculated|
 |---|---|
 |$R_T $|3.800 k&Omega;|
@@ -79,6 +97,8 @@ We then calculated $R_T$, $V_T$, $I_N$, $V_L$ and $I_L$ using the previously mea
 |$I_N$|2.553 mA|
 |$I_L$ |1.617 mA|
 |$V_L$ |6.145 V|
+
+
 
 **Discussion Question 2: Does $I_T$ = $I_L$?**
 
