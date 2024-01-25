@@ -25,8 +25,6 @@ Begin by turning on the soldering station to 400 °C and give it time to reach t
 
 Below is a picture of the soldering station our group used in class.
 
-[<img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Soldering%20Station.jpg" width="1920" height="1080">]
-
 ![Soldering Station](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Soldering%20Station.jpg)
 
 Grab the soldering breadboard and create the following circuit with the resistors in the same order as shown:
@@ -36,6 +34,9 @@ Grab the soldering breadboard and create the following circuit with the resistor
 </p>
 ![Series Circuit Schematic](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png)
 
+After creating the circuit on the breadboard, grab the soldering iron and apply the solder to the meeting point between the resistors and the copper pad. Make sure to apply and feed the solder to the soldering iron to effectively solder the resistor to the breadboard. If done properly, the back of the breadboard should look like this:
+
+![Soldering Station](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Back%20of%20Circuit%20Board.jpg)
 
 ## Lab Assignment Specific Items ##
 
