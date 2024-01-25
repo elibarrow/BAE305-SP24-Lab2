@@ -25,7 +25,7 @@ Begin by turning on the soldering station to 400 °C and give it time to reach t
 
 Below is a picture of the soldering station our group used in class.
 
-<img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Soldering%20Station.jpg" width="1920" height="1080">
+[<img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Soldering%20Station.jpg" width="1920" height="1080">]
 
 ![Soldering Station](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Soldering%20Station.jpg)
 
