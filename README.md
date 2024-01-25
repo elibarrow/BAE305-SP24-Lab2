@@ -80,7 +80,7 @@ Next, measure and record the current of I1 (R1=4.7 kΩ), I2(R2=6.8 kΩ), and I3(
 
 Keep R5 disconnected from the circuit and setup the DMM in parallel with resistors to measure the voltage drop across R1(4.7 kΩ), R2 (6.8 kΩ), R3 (15 kΩ), and R4 (220 kΩ). Record the results.
 
-Finally answer the discussion questions associated with the lab.
+Finally, answer the discussion questions associated with the lab.
 
 ## Lab Assignment Specific Items ##
 
@@ -93,7 +93,9 @@ Finally answer the discussion questions associated with the lab.
 
 #### Part 1 - Series Circuit
 
-**Picture Here**
+<p align="center">
+  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
+</p>
 
 Using the DMM we measured the voltage drop across each resistor along with the current that is present in the circuit.
 The results are shown in the table below.
@@ -108,7 +110,7 @@ The results are shown in the table below.
 
 
 #### Part 2 - Parallel Circuit
-**Picture Here**    
+![Parallel Circuit Schematic](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit%20Schematic.png)   
 
 Using the DMM we measured the voltage ($V_L$) drop across $R_5$ and measured the current ($I_L$) through $R_5$.
 The results are shown in the table below
