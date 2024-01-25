@@ -41,9 +41,13 @@ After creating the circuit on the breadboard, grab the soldering iron and apply 
 
 ![Back of the Breadboard](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Back%20of%20Circuit%20Board.jpg)
 
-Next, connect the DC Power Supply and set the voltage to 10V and the current to 0.250A. Then, setup the DMM as shown in the picture below to measure the voltage drop across R1(1 kΩ), R2 (2.2 kΩ), and R3 (5.1 kΩ)
+Next, connect the DC Power Supply and set the voltage to 10V and the current to 0.250A. The complete circuit should look something like the image below.
 
-![Measuring Voltage Drop](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Back%20of%20Circuit%20Board.jpg)
+![Completed Series Circuit](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Setup.jpg)
+
+Then, setup the DMM as shown in the picture below to measure the voltage drop across R1(1 kΩ), R2 (2.2 kΩ), and R3 (5.1 kΩ).
+
+![Measuring Voltage Drop](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Voltage.jpg)
 
 ## Lab Assignment Specific Items ##
 
