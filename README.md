@@ -129,7 +129,7 @@ Using the DMM we measured the currents $I_1$, $I_2$, $I_3$ without $R_5$ in the 
 |---|---|---|
 |$I_1$ (For $R_1$) | 0.50 mA | 2.55 mA |
 |$I_2$ (For $R_2$) | 0.46 mA | 1.77 mA |
-|$I_3$ (For $R_3$) | 0.04 mA |  0.8 mA |
+|$I_3$ (For $R_4$) | 0.04 mA |  0.055 mA |
 
 
 #### Part 2.2 - KVL
@@ -138,12 +138,12 @@ This step begins with $R_5$ still removed from the circuit.
 Using the DMM we measured the voltage drop across all the resistors.
 
 
-|Voltage |Measured Mag.| Calculated Voltages|
+|Voltage |Measured Voltage| Calculated Voltages|
 |---|---|---|
-|$V_1$ |2.292 V | |
-|$V_2$  | 3.026V | |
+|$V_1$ |2.292 V | 11.985 V |
+|$V_2$  | 3.026V |   |
 |$V_3$ | 6.686 V | |
-|$V_4$ (same as $V_5$) | 9.70 V | |
+|$V_4$ (same as $V_5$) | 9.70 V | 12.1 V|
 
 **Discussion Question 1: How much power does each resistor dissipate? Each branch? Total power? Is the power in equal to the power out?**
 
