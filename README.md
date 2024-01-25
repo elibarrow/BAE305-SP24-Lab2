@@ -48,7 +48,7 @@ Next, connect the DC Power Supply and set the voltage to 10V and the current to 
 
 ![Completed Series Circuit](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Setup.jpg)
 
-Then, setup the DMM as shown in the picture below to measure the voltage drop across R1(1 kΩ), R2 (2.2 kΩ), and R3 (5.1 kΩ) and record the results.
+Then, setup the DMM as shown in the picture below to measure the voltage drop across $R_1$ (1 kΩ), $R_2$ (2.2 kΩ), and $R_3$ (5.1 kΩ) and record the results.
 
 ![Measuring Voltage Drop](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Voltage.jpg)
 
@@ -68,17 +68,17 @@ Next, connect the DC Power Supply and set the voltage to 10V and the current to 
 
 ![Parallel Circuit Example](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit.jpg)
 
-Use the DMM in parallel with the R5 (2.2 kΩ) to measure the voltage drop across R5. Next, use the DMM in series with R5 to measure the current across the resistor.
+Use the DMM in parallel with the $R_5$ (2.2 kΩ) to measure the voltage drop across $R_5$. Next, use the DMM in series with R5 to measure the current across the resistor.
 
 Next, follow the schematic below and remove R5 from the circuit.
 
 ![Parallel Circuit without R5](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit%20without%20R5.png)
 
-Next, measure and record the current of I1 (R1=4.7 kΩ), I2(R2=6.8 kΩ), and I3(R4=220 kΩ) by putting the DMM in series with the corresponding resistors as shown below.
+Next, measure and record the current of $I_1$ ($R_1$=4.7 kΩ), $I_2$ ($R_2$=6.8 kΩ), and $I_3$ ($R_4$=220 kΩ) by putting the DMM in series with the corresponding resistors as shown below.
 
 ![Parallel Circuit Measuring Current](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit%20Setup.jpg)
 
-Keep R5 disconnected from the circuit and setup the DMM in parallel with resistors to measure the voltage drop across R1(4.7 kΩ), R2 (6.8 kΩ), R3 (15 kΩ), and R4 (220 kΩ). Record the results.
+Keep $R_5$ disconnected from the circuit and setup the DMM in parallel with resistors to measure the voltage drop across $R_1$ (4.7 kΩ), $R_2$ (6.8 kΩ), $R_3$ (15 kΩ), and $R_4$ (220 kΩ). Record the results.
 
 Finally, answer the discussion questions associated with the lab.
 
