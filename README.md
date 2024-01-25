@@ -21,7 +21,7 @@ For Lab 2, the following materials are required:
 •	Soldering Breadboard (In our case, a DigiKey SolderFul BreadBoard)
 
 •	Regular Breadboard
-&nbsp;
+
 
 **Part 1 - Series Circuit**
 
@@ -59,6 +59,10 @@ Our group moved the DMM to be in series by doing as shown in the picture below.
 ![Measuring Current](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Current%20Measurement%20Series.jpg)
 
 **Part 2 - Parallel Circuit**
+
+Build the following parallel circuit on the normal breadboard using the schematic below:.
+
+![Parallel Circuit Schematic](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit%20Schematic.png)
 
 ## Lab Assignment Specific Items ##
 
