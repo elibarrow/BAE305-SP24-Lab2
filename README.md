@@ -5,6 +5,15 @@ Jan. 25, 2024
 ## Summary of Lab ##
 There were multiple goals of this lab, the most important goals were to learn how to solder and analyze circuits to further understand KVL and KCL. The work performed in this lab was very intriguing and it allowed us to stay focused on the bigger picture of the lab and what we were trying to accomplish. The soldering was a fun addition to the lab where we got to do some hands-on building rather than just aimlessly taking different measurements. At the end of the lab, it was easily seen that our group benefited greatly from the material presented, mostly because all of the topics we had only worked with conceptually and not had any hands-on experience with.
 
+## Lab Schematics and Procedure
+For Lab 2, the following materials are required:
+
+•	A Digital Multimeter
+•	A DC Power supply
+•	A Soldering station
+•	A small piece of solder
+•	Resistors: 1kΩ, 2.2 kΩ, 5.1 kΩ, 4.7 kΩ, 6.8 kΩ, 15 kΩ, 220 kΩ
+
 
 ## Lab Assignment Specific Items ##
 
