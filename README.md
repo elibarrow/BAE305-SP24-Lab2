@@ -25,7 +25,9 @@ Begin by turning on the soldering station to 400 °C and give it time to reach t
 
 Below is a picture of the soldering station our group used in class.
 
-![Soldering Station](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Soldering%20Station.jpg=1200x1200)
+<img src="(https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Soldering%20Station.jpg)" width="100" height="100">
+
+![Soldering Station](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Soldering%20Station.jpg)
 
 Grab the soldering breadboard and create the following circuit with the resistors in the same order as shown:
 
