@@ -39,6 +39,7 @@ Grab the soldering breadboard and create the following circuit with the resistor
 
 After creating the circuit on the breadboard, grab the soldering iron and apply the solder to the meeting point between the resistors and the copper pad. 
 Make sure to apply and feed the solder to the soldering iron to effectively solder the resistor to the breadboard. 
+
 If done properly, the back of the breadboard should look like this:
 
 ![Back of the Breadboard](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Back%20of%20Circuit%20Board.jpg)
@@ -56,6 +57,8 @@ Move the DMM to be in series with the circuit so the current can be measured. Si
 Our group moved the DMM to be in series by doing as shown in the picture below.
 
 ![Measuring Current](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Current%20Measurement%20Series.jpg)
+
+**Part 2 - Parallel Circuit**
 
 ## Lab Assignment Specific Items ##
 
