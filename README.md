@@ -20,6 +20,9 @@ For Lab 2, the following materials are required:
 
 •	Soldering Breadboard (In our case, a DigiKey SolderFul BreadBoard)
 
+•	Regular Breadboard
+
+
 
 
 
