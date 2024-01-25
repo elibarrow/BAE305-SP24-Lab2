@@ -9,9 +9,13 @@ There were multiple goals of this lab, the most important goals were to learn ho
 For Lab 2, the following materials are required:
 
 •	A Digital Multimeter
+
 •	A DC Power supply
+
 •	A Soldering station
+
 •	A small piece of solder
+
 •	Resistors: 1kΩ, 2.2 kΩ, 5.1 kΩ, 4.7 kΩ, 6.8 kΩ, 15 kΩ, 220 kΩ
 
 
