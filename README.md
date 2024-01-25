@@ -74,6 +74,10 @@ Next, follow the schematic below and remove R5 from the circuit.
 
 ![Parallel Circuit without R5](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit%20without%20R5.png)
 
+Next, measure and record the current of I1, I2, and I3 by putting the DMM in series with the resistor as shown below.
+
+![Parallel Circuit Measuring Current](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit%20Setup.jpg)
+
 ## Lab Assignment Specific Items ##
 
 ### Objective 1: Learn soldering techniques by building a simple circuit on a solder breadboard ###
