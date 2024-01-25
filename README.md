@@ -20,7 +20,7 @@ For Lab 2, the following materials are required:
 
 •	Soldering Breadboard (In our case, a DigiKey SolderFul BreadBoard)
 
-Begin by grabbing the soldering breadboard and create the following circuit:
+Begin by grabbing the soldering breadboard and create the following circuit with the resistors in the same order as shown:
 
 ![Series Circuit Schematic](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png)
 
