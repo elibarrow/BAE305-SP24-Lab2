@@ -18,6 +18,10 @@ For Lab 2, the following materials are required:
 
 •	Resistors: 1kΩ, 2.2 kΩ, 5.1 kΩ, 4.7 kΩ, 6.8 kΩ, 15 kΩ, 220 kΩ
 
+•	Soldering Breadboard (In our case, a DigiKey SolderFul BreadBoard)
+
+Begin by grab
+
 
 
 
