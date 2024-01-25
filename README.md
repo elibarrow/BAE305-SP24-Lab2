@@ -120,7 +120,6 @@ The results are shown in the table below
 |$V_L$ (Voltage acrros $R_L$ / $R_5$)|  3.565 V  |
 |$I_L$ (Current through $R_L$ / $R_5$)|  1.64 mA  |
 
-**Picture Here of Step 5**
 
 Using the DMM we measured the currents $I_1$, $I_2$, $I_3$ without $R_5$ in the circuit.   
 |Current |Measured| Calculated|
