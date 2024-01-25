@@ -64,6 +64,10 @@ Build the following parallel circuit on the normal breadboard using the schemati
 
 ![Parallel Circuit Schematic](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit%20Schematic.png)
 
+Next, connect the DC Power Supply and set the voltage to 10V and the current to 0.250A. The complete circuit should look something like the image below.
+
+![Parallel Circuit Example](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit.jpg)
+
 ## Lab Assignment Specific Items ##
 
 ### Objective 1: Learn soldering techniques by building a simple circuit on a solder breadboard ###
