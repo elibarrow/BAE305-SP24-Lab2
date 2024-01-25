@@ -39,9 +39,11 @@ Grab the soldering breadboard and create the following circuit with the resistor
 
 After creating the circuit on the breadboard, grab the soldering iron and apply the solder to the meeting point between the resistors and the copper pad. Make sure to apply and feed the solder to the soldering iron to effectively solder the resistor to the breadboard. If done properly, the back of the breadboard should look like this:
 
-![Soldering Station](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Back%20of%20Circuit%20Board.jpg)
+![Back of the Breadboard](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Back%20of%20Circuit%20Board.jpg)
 
-Next
+Next, connect the DC Power Supply and set the voltage to 10V and the current to 0.250A. Then, setup the DMM as shown in the picture below to measure the voltage drop across R1(1 kΩ), R2 (2.2 kΩ), and R3 (5.1 kΩ)
+
+![Measuring Voltage Drop](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Back%20of%20Circuit%20Board.jpg)
 
 ## Lab Assignment Specific Items ##
 
