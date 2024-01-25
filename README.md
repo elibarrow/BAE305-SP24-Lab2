@@ -26,6 +26,7 @@ For Lab 2, the following materials are required:
 
 
 
+
 **Part 1 - Series Circuit**
 
 Begin by turning on the soldering station to 400 °C and give it time to reach the designated temperature. Make sure the tip is in proper condition and if not either replace the tip or tin the tip if necessary.
