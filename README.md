@@ -74,9 +74,13 @@ Next, follow the schematic below and remove R5 from the circuit.
 
 ![Parallel Circuit without R5](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit%20without%20R5.png)
 
-Next, measure and record the current of I1, I2, and I3 by putting the DMM in series with the resistor as shown below.
+Next, measure and record the current of I1 (R1=4.7 kΩ), I2(R2=6.8 kΩ), and I3(R4=220 kΩ) by putting the DMM in series with the corresponding resistors as shown below.
 
 ![Parallel Circuit Measuring Current](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit%20Setup.jpg)
+
+Keep R5 disconnected from the circuit and setup the DMM in parallel with resistors to measure the voltage drop across R1(4.7 kΩ), R2 (6.8 kΩ), R3 (15 kΩ), and R4 (220 kΩ). Record the results.
+
+Finally answer the discussion questions associated with the lab.
 
 ## Lab Assignment Specific Items ##
 
