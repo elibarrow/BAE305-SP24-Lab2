@@ -19,6 +19,8 @@ For Lab 2, the following materials are required:
 •	Resistors: 1kΩ, 2.2 kΩ, 5.1 kΩ, 4.7 kΩ, 6.8 kΩ, 15 kΩ, 220 kΩ
 
 
+
+
 ## Lab Assignment Specific Items ##
 
 ### Objective 1: Learn soldering techniques by building a simple circuit on a solder breadboard ###
