@@ -76,13 +76,13 @@ The original circuit that we were given is shown below:
   <img src=https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Screenshot%202024-01-23%20at%201.36.04%20PM.png width=50%>
 </p>
 
-The first step in the Thevenin process is to remove the load in the circuit. In this case the load was $R_5$. The updated ciruit is shown below: 
+The first step in the Thevenin process is to remove the load in the circuit. In this case, the load was $R_5$. The updated circuit is shown below: 
 <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Screenshot%202024-01-23%20at%201.36.39%20PM.png width=50%>
 </p>
 
 
-We then simplified the circuit to increase the ease of calculating our values $R_T$, $V_T$, $I_N$, $V_L$ and $I_L$. The updated circuit is shown below:  
+We then simplified the circuit to increase the ease of calculating our values $R_T$, $V_T$, $I_N$, $V_L$, and $I_L$. The updated circuit is shown below:  
 
 <p align="center">
   <img src=https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Screenshot%202024-01-23%20at%201.38.17%20PM.png width=50%>
@@ -102,7 +102,7 @@ We then calculated $R_T$, $V_T$, $I_N$, $V_L$ and $I_L$ using the previously mea
 
 **Discussion Question 2: Does $I_T$ = $I_L$?**
 
-In this circuit that we were given the way that $I_T$ would be calculated would be to insert the load resistor back into the circuit, and then calculate the current running through the load by using Ohm's law using the thevenin voltage and load resistor value. This would give you the thevenin current, in the lab questions we were asked to calculate $I_L$ as well, and the previous steps listed above is what procedure was followed to get the value for $I_L$. So the answer to this discussion question is YES, $I_T$ = $I_L$.
+In this circuit that we were given the way that $I_T$ would be calculated would be to insert the load resistor back into the circuit, and then calculate the current running through the load by using Ohm's law using the Thevenin voltage and load resistor value. This would give you the Thevenin current, in the lab questions we were asked to calculate $I_L$ as well, and the previous steps listed above are what procedure was followed to get the value for $I_L$. So the answer to this discussion question is YES, $I_T$ = $I_L$.
 
 
 
