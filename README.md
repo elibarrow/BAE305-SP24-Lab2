@@ -68,6 +68,12 @@ Next, connect the DC Power Supply and set the voltage to 10V and the current to 
 
 ![Parallel Circuit Example](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit.jpg)
 
+Use the DMM in parallel with the R5 (2.2 kΩ) to measure the voltage drop across R5. Next, use the DMM in series with R5 to measure the current across the resistor.
+
+Next, follow the schematic below and remove R5 from the circuit.
+
+![Parallel Circuit without R5](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit%20without%20R5.png)
+
 ## Lab Assignment Specific Items ##
 
 ### Objective 1: Learn soldering techniques by building a simple circuit on a solder breadboard ###
