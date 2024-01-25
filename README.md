@@ -25,7 +25,7 @@ Begin by turning on the soldering station to 400 °C and give it time to reach t
 
 Below is a picture of the soldering station our group used in class.
 
-![Soldering Station](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Soldering%20Station.jpg)
+![Soldering Station](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Soldering%20Station.jpg =1200x1200)
 
 Grab the soldering breadboard and create the following circuit with the resistors in the same order as shown:
 
@@ -98,7 +98,7 @@ Using the DMM we measured the voltage drop across all the resistors.
 
 
 #### Part 2.3 - Thevenin
-Thevenin’s Theorem states that all linear circuits, regardless of number of components, can be expressed as a circuit with one equivalent voltage source and one equivalent resistance. 
+Thevenin’s Theorem states that all linear circuits, regardless of the number of components, can be expressed as a circuit with one equivalent voltage source and one equivalent resistance. 
 
 The original circuit that we were given is shown below:
 <p align="center">
