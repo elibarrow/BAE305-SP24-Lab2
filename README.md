@@ -30,7 +30,7 @@ Below is a picture of the soldering station our group used in class.
 Grab the soldering breadboard and create the following circuit with the resistors in the same order as shown:
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
+  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
 </p>
 ![Series Circuit Schematic](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png)
 
