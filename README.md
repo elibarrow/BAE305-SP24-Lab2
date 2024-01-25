@@ -127,9 +127,9 @@ Using the DMM we measured the currents $I_1$, $I_2$, $I_3$ without $R_5$ in the 
 
 |Current |Measured| Calculated|
 |---|---|---|
-|$I_1$ (For $R_1$) | 0.50 mA | |
-|$I_2$ (For $R_2$) | 0.46 mA | |
-|$I_3$ (For $R_3$) | 0.04 mA | |
+|$I_1$ (For $R_1$) | 0.50 mA | 2.55 mA |
+|$I_2$ (For $R_2$) | 0.46 mA | 1.77 mA |
+|$I_3$ (For $R_3$) | 0.04 mA |  0.8 mA |
 
 
 #### Part 2.2 - KVL
