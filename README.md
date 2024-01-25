@@ -122,6 +122,9 @@ The results are shown in the table below
 
 
 Using the DMM we measured the currents $I_1$, $I_2$, $I_3$ without $R_5$ in the circuit.   
+
+![Parallel Circuit without R5](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Parallel%20Circuit%20without%20R5.png)
+
 |Current |Measured| Calculated|
 |---|---|---|
 |$I_1$ (For $R_1$) | 0.50 mA | |
