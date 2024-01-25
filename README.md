@@ -52,6 +52,7 @@ Then, setup the DMM as shown in the picture below to measure the voltage drop ac
 ![Measuring Voltage Drop](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Voltage.jpg)
 
 Move the DMM to be in series with the circuit so the current can be measured. Since the circuit is in a series there will be only one current. Record the current.
+
 Our group moved the DMM to be in series by doing as shown in the picture below.
 
 ![Measuring Current](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Current%20Measurement%20Series.jpg)
