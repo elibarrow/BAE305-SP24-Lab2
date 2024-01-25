@@ -21,6 +21,7 @@ For Lab 2, the following materials are required:
 •	Soldering Breadboard (In our case, a DigiKey SolderFul BreadBoard)
 
 
+**Part 1**
 Begin by turning on the soldering station to 400 °C and give it time to reach the designated temperature. Make sure the tip is in proper condition and if not either replace the tip or tin the tip if necessary.
 
 Below is a picture of the soldering station our group used in class.
@@ -36,6 +37,8 @@ Grab the soldering breadboard and create the following circuit with the resistor
 After creating the circuit on the breadboard, grab the soldering iron and apply the solder to the meeting point between the resistors and the copper pad. Make sure to apply and feed the solder to the soldering iron to effectively solder the resistor to the breadboard. If done properly, the back of the breadboard should look like this:
 
 ![Soldering Station](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Back%20of%20Circuit%20Board.jpg)
+
+Next
 
 ## Lab Assignment Specific Items ##
 
