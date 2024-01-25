@@ -20,9 +20,9 @@ For Lab 2, the following materials are required:
 
 •	Soldering Breadboard (In our case, a DigiKey SolderFul BreadBoard)
 
-Begin by grab
+Begin by grabbing the soldering breadboard and create the following circuit:
 
-
+![Series Circuit Schematic](https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Setup.jpg)
 
 
 ## Lab Assignment Specific Items ##
