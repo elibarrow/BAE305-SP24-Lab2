@@ -90,6 +90,11 @@ No code is required to replicate the lab.
 
 #### Part 1 - Series Circuit
 
+<p align="center">
+  <img src="https://github.com/elibarrow/BAE305-SP24-Lab2/blob/main/Series%20Circuit%20Schematic.png">
+</p>
+
+In this step of the lab we practiced our soldering skills and soldered together the circuit shown above. This was a very useful skill to learn in the lab and was a simple ciruit to solder for our first time.
 
 ### Objective 2: Analyze a circuit to verify Kirchhoff’s voltage law (KVL) and Kirchhoff’s current law (KCL), and to apply Thevenin’s and superposition theorems to the analysis of electrical circuits. ###
 
