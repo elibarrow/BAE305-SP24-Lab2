@@ -134,10 +134,12 @@ Using the DMM we measured the currents $I_1$, $I_2$, $I_3$ without $R_5$ in the 
 
 |Current |Measured| Calculated|
 |---|---|---|
-|$I_1$ (For $R_1$) | 0.50 mA | 2.55 mA |
+|$I_1$ (For $R_1$) | -0.50 mA | 2.55 mA |
 |$I_2$ (For $R_2$) | 0.46 mA | 0.55 mA |
 |$I_3$ (For $R_4$) | 0.04 mA | 0.055 mA |
- **Note:** Here we can easily see that our measured values from the DMM do not match up to our calculated values, therefore we made some sort of error in our calculations not giving us the correct calculated values.
+ **Note:**
+ 
+ Here we can easily see that our measured values from the DMM do not match up to our calculated values, therefore we made some sort of error in our calculations not giving us the correct calculated values.
 
 #### Part 2.2 - KVL
 
@@ -148,9 +150,9 @@ Using the DMM we measured the voltage drop across all the resistors.
 |Voltage |Measured Mag.| Calculated Voltages|
 |---|---|---|
 |$V_1$ |2.292 V | 11.985 V |
-|$V_2$  | 3.026V | 3.74V  |
-|$V_3$ | 6.686 V | 8.25 |
-|$V_4$ (same as $V_5$) | 9.70 V | 12.1V |
+|$V_2$  | 3.026 V | 3.74 V  |
+|$V_3$ | 6.686 V | 8.25 V |
+|$V_4$ (same as $V_5$) | 9.70 V | 12.1 V |
 
 **Note:** Here we can easily see that our measured values from the DMM do not match up to our calculated values, therefore we made some sort of error in our calculations not giving us the correct calculated values.
 
