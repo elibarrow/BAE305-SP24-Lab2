@@ -134,8 +134,8 @@ Using the DMM we measured the currents $I_1$, $I_2$, $I_3$ without $R_5$ in the 
 
 |Current |Measured| Calculated|
 |---|---|---|
-|$I_1$ (For $R_1$) | -0.50 mA | 2.55 mA |
-|$I_2$ (For $R_2$) | 0.46 mA | 1.76 mA |
+|$I_1$ (For $R_1$) | 0.50 mA | 2.55 mA |
+|$I_2$ (For $R_2$) | 0.46 mA | 0.55 mA |
 |$I_3$ (For $R_4$) | 0.04 mA | 0.055 mA |
 
 
@@ -147,10 +147,10 @@ Using the DMM we measured the voltage drop across all the resistors.
 
 |Voltage |Measured Mag.| Calculated Voltages|
 |---|---|---|
-|$V_1$ |2.292 V | |
-|$V_2$  | 3.026V |   |
-|$V_3$ | 6.686 V | |
-|$V_4$ (same as $V_5$) | 9.70 V | |
+|$V_1$ |2.292 V | 11.985 V |
+|$V_2$  | 3.026V | 3.74V  |
+|$V_3$ | 6.686 V | 8.25 |
+|$V_4$ (same as $V_5$) | 9.70 V | 12.1V |
 
 **Discussion Question 1: How much power does each resistor dissipate? Each branch? Total power? Is the power in equal to the power out?**
 Using the equation P=IV with P=power, I=Current, and V=Voltage, we find $P_1$=-1.146 mW, $P_2$=1.392 mW, $P_3$=3.08 mW, and $P_4$=0.388 mW. For branches, $P_B1$=-1.146 mW, $P_B2$=4.472 mW, and $P_B2$=0.388 mW.  $P_T$=3.714 mW and $P_In$ < $P_Out$.
