@@ -148,7 +148,7 @@ Using the DMM we measured the voltage drop across all the resistors.
 |$V_4$ (same as $V_5$) | 9.70 V | |
 
 **Discussion Question 1: How much power does each resistor dissipate? Each branch? Total power? Is the power in equal to the power out?**
-Using the equation P=IV with P=power, I=Current, and V=Voltage, we find $P_1$=-1.146 mW, $P_2$=1.392 mW, $P_3$=3.08 mW, and $P_4$=0.388 mW. For branches, $P_B_1$=-1.146 mW, $P_B_2$=4.472 mW, and $P_B_2$=0.388 mW.  $P_T$=3.714 mW and $P_In$ < $P_Out$.
+Using the equation P=IV with P=power, I=Current, and V=Voltage, we find $P_1$=-1.146 mW, $P_2$=1.392 mW, $P_3$=3.08 mW, and $P_4$=0.388 mW. For branches, $P_B1$=-1.146 mW, $P_B2$=4.472 mW, and $P_B2$=0.388 mW.  $P_T$=3.714 mW and $P_In$ < $P_Out$.
 
 #### Part 2.3 - Thevenin
 Thevenin’s Theorem states that all linear circuits, regardless of the number of components, can be expressed as a circuit with one equivalent voltage source and one equivalent resistance. 
